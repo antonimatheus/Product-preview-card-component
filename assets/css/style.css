@@ -50,8 +50,8 @@ main {
 
 section {
     display: flex;
-    width: 40vw;
-    height: 420px;
+    width: 580px;
+    height: 410px;
     flex-direction: row;
     border-radius: 15px;
     overflow: hidden;
@@ -155,7 +155,7 @@ button span {
 /* Mobile */
 
 
-@media screen and (max-width:1205px){
+@media screen and (max-width:975px){
     body {
         display: flex;
         align-items: center;
@@ -176,8 +176,8 @@ button span {
     
     section {
         display: flex;
-        width: 65%;
-        height: 90vh;
+        width: 380px;;
+        height: 580px;
         flex-direction: column;
     }
     
