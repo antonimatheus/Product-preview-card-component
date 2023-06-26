@@ -176,7 +176,7 @@ button span {
     
     section {
         display: flex;
-        width: 50%;
+        width: 65%;
         height: 90vh;
         flex-direction: column;
     }
